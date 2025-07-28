@@ -4,7 +4,9 @@
 
 **Figma Link:** https://www.figma.com/community/file/1325253298373460646
 
-**Design Preview:** Check out `design.png` in this folder for a visual reference of what you'll be building.
+**Design Preview:**
+
+![Design Reference](./design.png)
 
 ## 📋 Requirements
 
