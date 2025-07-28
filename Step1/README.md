@@ -90,3 +90,9 @@ Make sure to test your implementation on:
 - Different browsers if possible
 
 Good luck and have fun coding! 🎉
+
+---
+
+## 📄 Copyright Notice
+
+© designCourse - This activity is for educational and practice purposes only. Not for commercial or profit use.
