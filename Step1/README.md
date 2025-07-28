@@ -43,11 +43,23 @@
    <script src="https://cdn.tailwindcss.com"></script>
    ```
 
-2. **Create your HTML file**
+2. **Create your workspace**
 
-   - Name it `index.html`
+   - Create a folder with your name (e.g., `john-doe/`, `jane-smith/`)
+   - If the folder doesn't exist, create it first
+   - Inside your folder, create `index.html`
    - Follow the design reference closely
    - Pay attention to spacing, colors, and typography
+
+   **Example structure:**
+
+   ```
+   Step1/
+   ├── your-name/
+   │   └── index.html
+   ├── design.png
+   └── README.md
+   ```
 
 3. **Responsive Breakpoints**
    - `sm`: 640px and up
